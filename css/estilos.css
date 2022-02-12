@@ -20,3 +20,16 @@ body
 {
     font-size: 20px;
 }
+
+img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+    position: relative;
+    align-content: center;
+
+   }
+   .cat {
+    height:300px;
+    width: 300px;
+   }
